@@ -1,0 +1,17 @@
+Date,Store ID,Item ID,Item Category,Sales Volume,Promotional Flags
+1/5/2023,1,1009,Sports & Outdoor,130,No
+1/5/2023,2,1010,Electronics,160,Yes
+1/6/2023,1,1011,Clothing,85,No
+1/6/2023,2,1012,Beauty & Health,60,Yes
+1/7/2023,1,1013,Home & Kitchen,210,No
+1/7/2023,2,1014,Toys & Games,120,Yes
+1/8/2023,1,1015,Electronics,115,No
+1/8/2023,2,1016,Clothing,190,Yes
+1/9/2023,1,1017,Sports & Outdoor,140,Yes
+1/9/2023,2,1018,Home & Kitchen,165,No
+1/10/2023,1,1019,Beauty & Health,70,Yes
+1/10/2023,2,1020,Toys & Games,110,No
+1/11/2023,1,1021,Electronics,180,Yes
+1/11/2023,2,1022,Clothing,95,No
+1/12/2023,1,1023,Home & Kitchen,220,Yes
+1/12/2023,2,1024,Sports & Outdoor,130,No
